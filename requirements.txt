@@ -1,0 +1,5 @@
+crewai
+litellm
+streamlit
+youtube-transcript-api
+python-dotenv
